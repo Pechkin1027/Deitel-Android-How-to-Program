@@ -1,0 +1,14 @@
+<com.benjaminbrusilovsky.doodlz.DoodleView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/doodleView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:paddingBottom="16dp"
+    tools:context="com.benjaminbrusilovsky.doodlz.MainActivityFragment"
+    tools:showIn="@layout/activity_main">
+
+</com.benjaminbrusilovsky.doodlz.DoodleView>
